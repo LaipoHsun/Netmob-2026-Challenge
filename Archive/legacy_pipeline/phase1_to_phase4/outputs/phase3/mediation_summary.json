@@ -1,0 +1,12 @@
+{
+  "rows": 10082,
+  "groups": 40,
+  "a_lambda_to_dwell": 0.008429653070633612,
+  "b_dwell_to_r_excess": 0.00849193117966941,
+  "c_prime_direct_lambda_to_r_excess": 0.03780820341238752,
+  "total_lambda_to_r_excess": 0.037879787446132275,
+  "indirect_effect": 7.158403374430956e-05,
+  "indirect_ci_low": -0.00024174975141284113,
+  "indirect_ci_high": 0.00041272824830664885,
+  "proportion_mediated": 0.0018897686225432784
+}

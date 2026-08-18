@@ -1,0 +1,98 @@
+{
+  "focus_days": [
+    "2026-03-11",
+    "2026-03-12",
+    "2026-03-13",
+    "2026-03-14"
+  ],
+  "focus_lines_requested": [
+    "49.2",
+    "45",
+    "49.1",
+    "48",
+    "35",
+    "62"
+  ],
+  "raw_rows_by_day": {
+    "2026-03-11": 950855,
+    "2026-03-12": 985831,
+    "2026-03-13": 1053712,
+    "2026-03-14": 774648
+  },
+  "missing_service_rows_by_day": {
+    "2026-03-11": 0,
+    "2026-03-12": 0,
+    "2026-03-13": 0,
+    "2026-03-14": 0
+  },
+  "missing_latlng_rows_by_day": {
+    "2026-03-11": 0,
+    "2026-03-12": 0,
+    "2026-03-13": 0,
+    "2026-03-14": 0
+  },
+  "after_drop_out_of_service_and_bad_times": 3765046,
+  "after_focus_line_filter": 931854,
+  "focus_rows_by_line_direction": [
+    {
+      "line_code": "35",
+      "direction": 0,
+      "rows": 61103
+    },
+    {
+      "line_code": "35",
+      "direction": 1,
+      "rows": 75357
+    },
+    {
+      "line_code": "45",
+      "direction": 0,
+      "rows": 69851
+    },
+    {
+      "line_code": "45",
+      "direction": 1,
+      "rows": 75642
+    },
+    {
+      "line_code": "48",
+      "direction": 0,
+      "rows": 88061
+    },
+    {
+      "line_code": "48",
+      "direction": 1,
+      "rows": 108439
+    },
+    {
+      "line_code": "49.1",
+      "direction": 0,
+      "rows": 55601
+    },
+    {
+      "line_code": "49.1",
+      "direction": 1,
+      "rows": 92208
+    },
+    {
+      "line_code": "49.2",
+      "direction": 0,
+      "rows": 109783
+    },
+    {
+      "line_code": "49.2",
+      "direction": 1,
+      "rows": 57358
+    },
+    {
+      "line_code": "62",
+      "direction": 0,
+      "rows": 80387
+    },
+    {
+      "line_code": "62",
+      "direction": 1,
+      "rows": 58064
+    }
+  ]
+}

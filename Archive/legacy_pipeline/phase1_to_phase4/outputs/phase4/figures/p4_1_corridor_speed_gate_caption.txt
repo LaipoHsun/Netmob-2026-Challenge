@@ -1,0 +1,1 @@
+P4-1. Pair-level shared-minus-offtrunk synchronization correlations before and after residualizing both shared-trunk line series on segment mean speed; inset shows significant non-zero lags.

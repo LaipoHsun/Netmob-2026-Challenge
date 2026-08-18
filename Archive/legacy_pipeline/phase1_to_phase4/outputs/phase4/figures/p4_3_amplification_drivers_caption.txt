@@ -1,0 +1,1 @@
+P4-3. Standardized random-intercept model coefficients for spatial amplification slope; intervals are Wald 95% CIs.

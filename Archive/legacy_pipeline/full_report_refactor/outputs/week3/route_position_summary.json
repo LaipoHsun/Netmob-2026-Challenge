@@ -1,0 +1,13 @@
+{
+  "zone_occupancy": {
+    "interior": 0.48947686638067545,
+    "terminal": 0.27126939797886734,
+    "near_terminal": 0.2392537356404572
+  },
+  "zone_median_matching_residual_m": {
+    "terminal": 4.2417498230624915,
+    "near_terminal": 3.885671439444824,
+    "interior": 4.133014037235293
+  },
+  "note": "Terminal and interior zones carry opposite-signed corrected synchronization, so the whole-route order parameter is a mixture of dispatch queueing and in-service headway dynamics."
+}

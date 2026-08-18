@@ -1,0 +1,1 @@
+P4-5. Synthesis: finite-size correction, smooth demand crossover, and corridor coupling after speed control.
