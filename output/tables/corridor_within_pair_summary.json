@@ -1,0 +1,8 @@
+{
+  "shared_pairs_tested": 176,
+  "mean_shared_minus_off_corr": 0.053370826381330325,
+  "sign_flip_permutation_p": 0.0,
+  "paired_t_p_two_sided": 0.00022578252450087405,
+  "mean_shared_corr": 0.054722474395040126,
+  "mean_offtrunk_corr": -0.002557360163692876
+}

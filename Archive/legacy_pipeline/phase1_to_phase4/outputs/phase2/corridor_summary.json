@@ -1,8 +1,0 @@
-{
-  "shared_pairs": 176,
-  "nonshared_pairs": 14,
-  "mean_corr_shared": 0.03929488690835656,
-  "mean_corr_nonshared": 0.04872592526267135,
-  "shared_minus_nonshared_corr": -0.009431038354314795,
-  "label_permutation_p": 0.771
-}

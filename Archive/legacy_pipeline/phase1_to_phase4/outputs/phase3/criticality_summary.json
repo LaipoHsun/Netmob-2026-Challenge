@@ -1,9 +1,0 @@
-{
-  "candidate_lambda_from_phase2": 135.73999999999995,
-  "susceptibility_pass": false,
-  "bimodality_pass": false,
-  "n_stability_pass": true,
-  "lambda_peak_N_correlation": 0.28213213324202613,
-  "passed_signature_count": 1,
-  "verdict": "consistent with a smooth crossover / no criticality"
-}

@@ -1,0 +1,23 @@
+{
+  "n_cells": 10135,
+  "median_N": 6,
+  "specs": [
+    "arc|occupancy",
+    "arc|permutation",
+    "arc|speed",
+    "arc|uniform",
+    "time|occupancy",
+    "time|permutation",
+    "time|uniform"
+  ],
+  "estimators": [
+    "r_excess",
+    "z",
+    "ppc",
+    "rayleigh_z",
+    "pit_probit"
+  ],
+  "bootstrap_draws": 2000,
+  "null_draws": 20000,
+  "seed": 20260814
+}
