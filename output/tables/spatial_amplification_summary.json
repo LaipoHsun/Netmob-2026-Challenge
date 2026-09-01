@@ -1,8 +1,0 @@
-{
-  "rows": 6652,
-  "mean_slope": 0.1281096371677018,
-  "median_slope": 0.15881786339514636,
-  "ttest_slope_gt_zero_t": 17.708757649819365,
-  "ttest_slope_gt_zero_p_two_sided": 1.3232741959958804e-68,
-  "lambda_coef_for_slope": -0.030918193508189678
-}

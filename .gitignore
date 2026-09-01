@@ -1,16 +1,36 @@
-.DS_Store
-.Rhistory
-__pycache__/
-*.py[cod]
-.full_report_work_*/
-data_original/
+# Public paper companion: ignore everything first, then allow only the README,
+# self-contained plotting code, published figures, and the full-report PDF.
+/*
 
-# LaTeX build products; source and final report PDF remain tracked.
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.out
-*.toc
-*.xdv
-fullrefs.aux
+!/.gitignore
+!/README.md
+!/requirements.txt
+
+!/code/
+/code/*
+!/code/make_paper_figures.py
+
+!/output/
+/output/*
+!/output/figures/
+/output/figures/*
+!/output/figures/fig1_finite_size.pdf
+!/output/figures/fig1_finite_size.png
+!/output/figures/fig2_load_response.pdf
+!/output/figures/fig2_load_response.png
+!/output/figures/fig3_position_distribution.pdf
+!/output/figures/fig3_position_distribution.png
+!/output/figures/fig4_zone_order.pdf
+!/output/figures/fig4_zone_order.png
+!/output/figures/fig5_load_effect_by_zone.pdf
+!/output/figures/fig5_load_effect_by_zone.png
+!/output/figures/02_null_approximation_error.pdf
+!/output/figures/03_weekend_contrasts.pdf
+!/output/figures/08_newell_potts_theory_curves.pdf
+!/output/figures/09_newell_potts_empirical_test.pdf
+!/output/figures/15_corridor_speed_control_effect.pdf
+!/output/figures/17_amplification_driver_coefficients.pdf
+
+!/report/
+/report/*
+!/report/NetMob_2026_full_report.pdf
